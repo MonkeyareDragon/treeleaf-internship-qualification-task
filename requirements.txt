@@ -1,7 +1,9 @@
 numpy
 pandas
 openpyxl
+tabulate
 scikit-learn
 matplotlib
 seaborn
 notebook
+tabulate
