@@ -10,4 +10,8 @@ tabulate
 torch 
 torchvision 
 torchaudio 
---index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+fastapi
+uvicorn
+streamlit
+streamlit-chat
