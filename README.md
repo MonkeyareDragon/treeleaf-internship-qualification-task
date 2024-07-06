@@ -1,4 +1,4 @@
-# Project Title
+# Treeleaf-Intern-Task
 
 Welcome to the **Treeleaf-Intern-Task** repository! This project contains various components including a chatbot application, trained models, data processing scripts, and analysis reports of Bank Loan Classification. Below you'll find the folder structure and instructions on how to set up and run the project.
 
